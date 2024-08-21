@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(8, 73, 178);
+    color: whitesmoke;
+    font-family: "Space Grotesk", sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 700px;
+    margin: 0;
+
+  
+}
+
+button {
+    background-color: rgb(223, 236, 247) ;
+    font-family: "Space Grotesk", sans-serif;
+}
